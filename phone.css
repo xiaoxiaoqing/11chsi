@@ -1,0 +1,74 @@
+@charset "utf-8";
+
+/*
+ * Author:UED
+ * Version:1.0.0
+*/
+html{font-size:10px;height:100%;}
+@media screen and (min-width:320px) {html{font-size: 12px;}}
+@media screen and (min-width:375px) {html{font-size: 10px;}}
+@media screen and (min-width:414px) {html{font-size: 9px;}}
+body{
+	font: 14px/25px "Microsoft YaHei", "微软雅黑", "SimSun", "宋体", HELVETICA;
+	color:#000;
+	font-size:2.2rem;
+	height:100%;
+}
+.main{
+	height:100%;
+	overflow:auto;
+}
+.content b{
+	font-weight:100;
+}
+.header{
+	background-color: #fff;
+	padding: 4vw;
+}
+h2{
+	font-size: 4.5rem;
+	text-align: center;
+	font-weight: bolder;
+	line-height: 3;
+}
+.hdetail{
+	display: flex;
+	align-items:center;
+    font-weight: 400;
+}
+.pdetail{
+	display:flex;
+	flex-direction: column;
+    line-height: 2;
+    font-weight: 500;
+    font-size:2.7rem;
+}
+.name{
+	font-size:3.5rem;
+}
+.gender{
+	font-size:2.2rem;
+	font-weight:500;
+}
+.zhaop{
+	width: 5rem;
+	height:6.5rem;
+	border-radius: .5rem;
+	margin-right: 1.5rem;
+}
+.content{
+	background-color: #fff;
+	margin-top:1rem;
+	font-size:3rem;
+}
+.content li{
+	height:4rem;
+	line-height:4rem;
+	border-bottom: 2px solid #f1f1f1;
+	padding:0 4vw;
+}
+.content li span{
+	width:9rem;
+	color:#9d9d9d;
+	display:inline-block;
+}
