@@ -27,10 +27,11 @@ body{
 	align-items:center;
 	background-color: #fff;
 	justify-content:space-between;
-	padding: 4vw 4vw 0
+	padding: 4vw;
+	border-bottom:2px solid #f4f4f4;
 }
 .pdf{
-	width:4rem;
+	width:5vw;
 }
 .tu{
 	width:98%;
@@ -58,24 +59,24 @@ body{
 	float: right;
 }
 .left{
-	width: 22rem;
-    height: 6rem;
+	width: 26vw;
+    height: 9vw;
     background: #e6e6e6;
     color: #6f6f6f;
     font-size: 3rem;
-    line-height: 6rem;
-    border-radius: 10rem;
+    line-height:9vw;
+    border-radius:6vw;
     display: flex;
     justify-content:space-between;
 }
 .left span{
-	width:11rem;
+	width:13vw;
 	text-align:center;
 }
 .left .zhong{
 	background-color: #45a8ae;
 	color:#fff;
-	border-radius: 10rem;
+	border-radius: 6vw;
 }
 .header{
 	background-color: #fff;
@@ -108,10 +109,10 @@ h2{
 	font-weight:500;
 }
 .zhaop{
-	width:13.5rem;
-	height:17.5rem;
+	width:16vw;
+	height:20vw;
 	border-radius: .5rem;
-	margin-right: 3.5rem;
+	margin-right:4vw;
 }
 .content{
 	background-color: #fff;
@@ -119,8 +120,8 @@ h2{
 	font-size:3rem;
 }
 .content li{
-	height:10.5rem;
-	line-height:10.5rem;
+	height:15vw;
+	line-height:15vw;
 	border-bottom: 2px solid #f4f4f4;
 	padding:0 4vw;
 }
@@ -128,7 +129,7 @@ h2{
 	border-top: 1rem solid #f4f4f4;
 }
 .content li span{
-	width:25rem;
+	width:30vw;
 	color:#9d9d9d;
 	display:inline-block;
 }
