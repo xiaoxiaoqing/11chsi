@@ -99,13 +99,13 @@ h2{
 	flex-direction: column;
     line-height: 2;
     font-weight: 500;
-    font-size:2.7rem;
+    font-size:3rem;
 }
 .name{
 	font-size:3.5rem;
 }
 .gender{
-	font-size:2.2rem;
+	font-size:3rem;
 	font-weight:500;
 }
 .zhaop{
