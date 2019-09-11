@@ -29,6 +29,9 @@ body{
 	justify-content:space-between;
 	padding: 4vw 4vw 0
 }
+.pdf{
+	width:4rem;
+}
 .tu{
 	width:98%;
 	margin:0 auto; 
@@ -39,10 +42,11 @@ body{
     position: absolute;
     font-size: 3rem;
     left: 5%;
+    top: 20%;
     padding: 3vw;
     box-sizing: border-box;
     line-height: 2;
-    box-shadow: 2px 2px 20px #333333;
+    box-shadow: 3px 10px 35px #333333;
     display:none;
 }
 .lay b{
