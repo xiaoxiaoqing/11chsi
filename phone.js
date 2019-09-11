@@ -9,6 +9,6 @@ $('html').css({'fontSize':fs*10/828});
 		$('.lay').hide();
 	})
 	$('.pdf').on('click',function(){
-		$('.main').html('<img class="tu" src="lxq.jpg" alt="">')
+		$('.main').html('<img class="tu" src="jl.jpg" alt="">')
 	})
 })
